@@ -1,0 +1,11 @@
+coqc Prelude
+coqc Addrs
+coqc CryptoHashes
+coqc CryptoSignatures
+coqc Assets
+coqc Transactions
+coqc LedgerStates
+coqc MTrees
+coqc CTrees
+coqc CTreeGrafting
+coqc Blocks
